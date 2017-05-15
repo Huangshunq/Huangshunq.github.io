@@ -1,2 +1,3 @@
-# Huangshunq.github.io
-blog website
+# My Blog (Huangshunq.github.io)
+
+using Jekyll
