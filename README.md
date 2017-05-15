@@ -1,3 +1,3 @@
 # My Blog (Huangshunq.github.io)
 
-using Jekyll
+使用别人的Jekyll模板搭建个人博客
