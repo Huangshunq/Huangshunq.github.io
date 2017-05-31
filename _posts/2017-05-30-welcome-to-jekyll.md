@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "hello jekyll!"
-date:   2017-05-14 22:34:00
+date:   2017-05-30 22:19:00
 categories: jekyll
 tags: jekyll
-excerpt: 使用其他人的jekyll模板在github上搭建个人博客
+excerpt: 关于这个博客
 mathjax: true
 ---
 
