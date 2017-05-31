@@ -11,33 +11,16 @@ mathjax: true
 * content
 {:toc}
 
-## 使用其他人的jekyll模板在github上搭建个人博客
+# 关于我的博客 My Blog
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**我的博客访问地址：[https://huangshunq.github.io/](https://huangshunq.github.io/)**
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+为了构建这个博客，我使用了基于 jekyll 的网站模板 。jekyll是一个基于ruby开发的，专用于构建静态网站的程序。
 
-Jekyll also offers powerful support for code snippets:
+详情可以查看 jekyll 官网：[https://jekyllrb.com/](https://jekyllrb.com/) 
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+也可以查看中文翻译版 jekyll 官网（中文文档翻译落后于英文官网）：[http://jekyllcn.com/](http://jekyllcn.com/) 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+寻找 jekyll 的网站模板可以访问该网站：[http://jekyllthemes.org/](http://jekyllthemes.org/)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-
-Block Mathjax 
-
-$$
-f(x) = ax + b
-$$
-
-Inline Mathjax $a \neq b$
-
+我所使用的博客模板  github 地址，你可以通过该地址了解更多：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) 
