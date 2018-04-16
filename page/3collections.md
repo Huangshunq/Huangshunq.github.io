@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: empty
 permalink: /empty/
@@ -7,4 +7,4 @@ type: page
 ---
 
 * content
-{:toc}
+{:toc} -->
